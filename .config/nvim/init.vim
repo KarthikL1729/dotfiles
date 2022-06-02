@@ -105,7 +105,7 @@ let g:UltiSnipsListSnippets="<c-space>"
 
 vmap <C-c> "+y     " Yank current selection into system clipboard
 nmap <C-c> "+Y     " Yank current line into system clipboard (if nothing is selected)
-nmap <C-v> "+p     " Paste from system clipboard
+nmap <C-p> "+p     " Paste from system clipboard
 
 nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <C-f> :FZF<CR>

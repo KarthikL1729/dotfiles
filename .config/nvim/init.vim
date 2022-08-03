@@ -72,10 +72,10 @@ EOF
 " colorscheme vim-material
 
 " Palenight
-let g:material_style='palenight'
+" let g:material_style='palenight'
 set background=dark
-colorscheme vim-material
-
+" colorscheme vim-material
+colorscheme hilal
 " Oceanic
 " let g:material_style='oceanic'
 " :set background=dark
